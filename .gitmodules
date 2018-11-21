@@ -1,0 +1,3 @@
+[submodule "Ricochet"]
+	path = Ricochet
+	url = https://github.com/fogleman/Ricochet.git
