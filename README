@@ -1,0 +1,33 @@
+Projeto de Inteligência Artificial
+
+Aluno Marcos Seiti Suzuki
+RA: 11121816
+
+Mais detalhes sobre o jogo e estudos da Inteligência artificial,
+
+Baseado no códido https://github.com/fogleman/Ricochet
+
+Requisitos
+============
+Python 2.6+
+wxPython 2.8+ (via pip)
+
+Rodar
+============
+para rodar o programa: python main.py
+
+Controles
+========
+Para mover o robo, selecionar uma das cores e use as setas do teclado:
+
+R - Red
+G - Green
+B - Blue
+Y - Yellow
+
+Outros controles:
+
+N - New Game
+S - Busca solucao
+U - Undo
+Esc - Quit
